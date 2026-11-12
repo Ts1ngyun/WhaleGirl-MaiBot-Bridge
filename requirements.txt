@@ -1,0 +1,6 @@
+# Relay environment. MaiBot and WhaleGirl each retain their own dependencies.
+aiohttp>=3.14.3,<4
+Pillow>=12.3,<13
+requests>=2.32,<3
+# Required by plugin regression tests; the plugin normally uses MaiBot's SDK.
+maibot-plugin-sdk>=2.22.1,<3

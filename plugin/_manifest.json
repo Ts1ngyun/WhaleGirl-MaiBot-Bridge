@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "id": "local.whale-text-adapter",
+  "version": "0.3.0",
+  "name": "WhaleGirl–MaiBot Bridge",
+  "description": "微信图文、API 语音、上下文同步与人工接管桥接",
+  "author": {
+    "name": "Ts1ngyun"
+  },
+  "license": "AGPL-3.0-only",
+  "plugin_type": "adapter",
+  "host_application": {
+    "min_version": "1.4.3",
+    "max_version": "1.99.99"
+  },
+  "sdk": {
+    "min_version": "2.22.1",
+    "max_version": "2.99.99"
+  },
+  "dependencies": [],
+  "capabilities": [
+    "gateway.route_message",
+    "gateway.update_state",
+    "chat.open_session",
+    "maisaka.context.append"
+  ],
+  "urls": {
+    "repository": "https://github.com/Ts1ngyun/WhaleGirl-MaiBot-Bridge"
+  },
+  "i18n": {
+    "default_locale": "zh-CN",
+    "supported_locales": [
+      "zh-CN"
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "basis": "Local working source snapshot; no upstream Git metadata was present. Hashes identify pre-extraction source, not pristine upstream files.",
+  "files": [
+    {
+      "file": "hub.py",
+      "source_sha256": "d409e643eb610f488c209a7ee87ea9c771bc10d293c8a724ae154041900163f7"
+    },
+    {
+      "file": "remote_console.py",
+      "source_sha256": "eea30a3d68f9e96c0b8634f0b8802be49bcb7393f0eeaa2f5c2efcb4ab59b112"
+    },
+    {
+      "file": "emoji_payload.py",
+      "source_sha256": "d82d70df6dac9f481ac8d3920800d5ba65aa22741e6edb1f9651c378ed75dc19"
+    },
+    {
+      "file": "voice_intent.py",
+      "source_sha256": "4b707b70b60df35aeefd80d3379de6bc9b5f87b431bee56fe3c6220495acd9b0"
+    },
+    {
+      "file": "bridge_runner.py",
+      "source_sha256": "c546fba009923254070cbe174046ab784752d19c51438083527b077337a145ad"
+    },
+    {
+      "file": "Image-Settings.ps1",
+      "source_sha256": "afd3d7e001b8307da324738156a69f74875d111abd19239bc7a48efc605f055c"
+    },
+    {
+      "file": "Image-Settings.cmd",
+      "source_sha256": "97bcb07292ec590605cd0832e7806f7ff122ae2fa5359dc4b14551e1d1025d33"
+    },
+    {
+      "file": "whale_patch/bridge/maibot_async.py",
+      "source_sha256": "47345f06e46c96c00c1a6de7278130f4c3a407ca2d72abd977cb5109f071644e"
+    },
+    {
+      "file": "whale_patch/bridge/receiver_mixin.py",
+      "source_sha256": "0a5a3df55b1ed2538e41420f650b5aeed59b92c1686b9b26a1b3de58c2cd0b94"
+    },
+    {
+      "file": "whale_patch/bridge/sticker_mixin.py",
+      "source_sha256": "10f021383fc21f03a3a3d90c5c7f15da87505024ef767935024a3ece19bd78bf"
+    },
+    {
+      "file": "whale_patch/bridge/voice_mixin.py",
+      "source_sha256": "c0452b26925704625f2e52831f08b561b04eb4f4cf8094a0f86a74026104b848"
+    },
+    {
+      "file": "whale_patch/bridge/microphone_guard.py",
+      "source_sha256": "45d091d94801a49525b80e63080debbb4ec15c0670065fd63be82fdad2d66ef6"
+    },
+    {
+      "file": "whale_patch/bridge/app.py",
+      "source_sha256": "4fe7aa47b0744cfd58ea8297ea4f0974811257640a47e8fdd10bd45491907ebc"
+    },
+    {
+      "file": "whale_patch/routes/maibot-link.js",
+      "source_sha256": "f40089032a0c32868e87530290a1854c8b339f0b3011089fe453e58406710eee"
+    },
+    {
+      "file": "plugin/plugin.py",
+      "source_sha256": "1dadfade0a78d0b7b92e9887e69e9b018b5e8b69d55bb137987ee7bda2f49094"
+    },
+    {
+      "file": "plugin/_manifest.json",
+      "source_sha256": "65912d0b1192c3b1aa0f6600608a25b706cd79d126b2e29e6284e685efcbae91"
+    },
+    {
+      "file": "audio/DefaultMicrophone.cs",
+      "source_sha256": "662eb26c6c4f929f40c8a9a66d3005eb78837058c9012944285ad1f157cff391"
+    },
+    {
+      "file": "audio/Ensure-Microphone.ps1",
+      "source_sha256": "ba6a8fa4fecd30e9eba089cbb5451d3ae0c7b603ab4ee39b1431302f73a91933"
+    },
+    {
+      "file": "remote/app.js",
+      "source_sha256": "b303b027ed7e72c14abd0d32359ea7ee5cae94ce0e595ad5062d1904416f0b3f"
+    },
+    {
+      "file": "remote/index.html",
+      "source_sha256": "84d274f05c425a0beba2dbab93722e435750fdb22e37c31ab019d9475fdce8dd"
+    },
+    {
+      "file": "LICENSE",
+      "source_sha256": "816cb3fdee24596c3c287d2bcc11aa5fd8a456ea1b103617a44a8b1c0b8dcc84"
+    },
+    {
+      "file": "licenses/WhaleGirl-NOTICE.md",
+      "source_sha256": "0c790ca907ee41808b4baafc652413f67b407454bb4f007ab22d2650c68c7a95"
+    },
+    {
+      "file": "test_relay.py",
+      "source_sha256": "619dba9e135f53702888a13e120c48ccacf8820dd393cd7d4bbd4ed4631e7097"
+    },
+    {
+      "file": "test_remote.py",
+      "source_sha256": "a1dc517e9f6187b0cc2657587f1bc883e03596be798dc1ecba3267d36605aa27"
+    },
+    {
+      "file": "test_emoji.py",
+      "source_sha256": "c5f3f7b26d50970818d73c5b1ce472d0998875bd7ac72298f45579c67c147e79"
+    }
+  ]
+}
